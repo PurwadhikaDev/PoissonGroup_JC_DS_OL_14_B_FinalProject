@@ -11,6 +11,7 @@ In the dynamic and competitive real estate market, accurately predicting propert
 **🛠 Tech Stack**
 - Language: Python
 - Dataset : [DC_Properties.csv](https://www.kaggle.com/datasets/christophercorrea/dc-residential-properties)
+- Tableau : [Tableau](https://public.tableau.com/app/profile/rio.sova/viz/WashingtonDCProperties/Dashboard1?publish=yes)
 - Machine Learning:
   1. LinearRegression
   2. KNeighborsRegressor
